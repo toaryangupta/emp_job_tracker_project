@@ -1,7 +1,7 @@
 {
   "name": "employee_job_tracker_application",
   "version": "1.0.0",
-  "description": "mern stack job tracker app",
+  "description": "employee_job_tracker_application",
   "main": "server.js",
   "type": "module",
   "scripts": {

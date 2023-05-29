@@ -5,7 +5,7 @@
 
 ### The goals of creating this application:
 
-The main goals for me as a web developer were to improve my skills in working with:
+Techstack Used:
 
 - MERN stack (Mongoose/MongoDB, Express, React, Node);
 - React Router;
@@ -16,15 +16,6 @@ The main goals for me as a web developer were to improve my skills in working wi
 - security packages;
 - styled components;
 - cookies (cookie-parser)
-
-### To view the app in the browser, copy and paste the following line to your browser URL address bar:
-
-> NOTE: The app is deployed on the basic (free) account of Render.com, so the rendering is slow. It may take up to 60 seconds for app components to load after clicking the website link. Thank you for your patience!
-
-```
-https://mern-job-tracker-mt0w.onrender.com/
-```
-
 ### Functionalities:
 
 - protected routes for unauthorized users;
