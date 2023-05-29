@@ -1,5 +1,5 @@
 {
-  "name": "mern-jobify-final",
+  "name": "employee_job_tracker_application",
   "version": "1.0.0",
   "description": "mern stack job tracker app",
   "main": "server.js",
@@ -14,14 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SharinLana/mern-stack-job-tracker.git"
+    "url": "githttps://github.com/toaryangupta/emp_job_tracker_project"
   },
-  "author": "Svetlana Sharina (aka Lana Sharin)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SharinLana/mern-stack-job-tracker/issues"
-  },
-  "homepage": "https://github.com/SharinLana/mern-stack-job-tracker#readme",
+ 
+ 
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
