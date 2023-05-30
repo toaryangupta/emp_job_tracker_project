@@ -139,7 +139,7 @@ const Register = () => {
               labelClass="label"
             />
             <FormInput
-              type="text"
+              type="password"
               name="password"
               onGetValue={getInputValueHandler}
               value={inputValue.password}
@@ -151,7 +151,7 @@ const Register = () => {
           <button type="submit" className="submit-btn" disabled={isLoading}>
             {isLoading ? "Submitting..." : "Submit"}
           </button>
-          <button
+          {/* <button
             type="submit"
             className="demo-btn"
             disabled={isLoading}
@@ -160,7 +160,7 @@ const Register = () => {
             }
           >
             View Demo
-          </button>
+          </button> */}
 
           <p>
             <span className="asterisk">*</span> Required fields

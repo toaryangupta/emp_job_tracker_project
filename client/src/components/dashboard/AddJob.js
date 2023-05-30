@@ -174,7 +174,7 @@ const AddJob = () => {
             <div className="input-container salary-container">
               <FormLabel
                 name="salaryMin"
-                labelText="$ Min:"
+                labelText="Rs Min:"
                 labelClass="label salary-label"
               />
               <FormInput
@@ -188,7 +188,7 @@ const AddJob = () => {
             <div className="input-container salary-container">
               <FormLabel
                 name="salaryMax"
-                labelText="$ Max:"
+                labelText="Rs Max:"
                 labelClass="label salary-label"
               />
               <FormInput
